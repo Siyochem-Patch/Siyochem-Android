@@ -32,13 +32,8 @@
     
   | Patch Version | Official Version | Official Release Date | Is Latest Official Version? | Supported Architectures             | Download APK | 
   | ------------- | ---------------- | --------------------- | --------------------------- | ----------------------------------- | ------------ |
-  | 1.0.0         | 2.0              | 02 / 11 / 2023        | ✅                         | arm64-v8a, armeabi-v7a, x86, x86_64 | [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/Siyochem-Patch/Siyochem-Android/releases/download/1.0.0/Siyochem-1.0.0.apk)
-     |
-
-
----
-
-# 
+  | 1.0.0         | 2.0              | 02 / 11 / 2023        | ✅                         | arm64-v8a, armeabi-v7a, x86, x86_64 | [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/Siyochem-Patch/Siyochem-Android/releases/download/1.0.0/Siyochem-1.0.0.apk) |
+ 
 
 ---
 
