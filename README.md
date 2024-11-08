@@ -22,6 +22,9 @@
 > [!NOTE]
 > This's the release repo, source is only available for organization members.
 
+> [!IMPORTANT]
+> Cross Platform Siyochem Desktop is available with much features, but not publicly available. You need to request with a email: yt2.dev.dragon@gmail.com. Note that you'll need to prove that you're a student with a valid document.
+
 - ## Preface
   - ### [Disclaimer](https://github.com/Siyochem-Patch#disclaimer)
   - ### [How Legal?](https://github.com/Siyochem-Patch#how-legal)
