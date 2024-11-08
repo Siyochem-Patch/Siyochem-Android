@@ -19,6 +19,9 @@
 
 ---
 
+> [!NOTE]
+> This's the release repo, source is only available for organization members.
+
 - ## Preface
   - ### [Disclaimer](https://github.com/Siyochem-Patch#disclaimer)
   - ### [How Legal?](https://github.com/Siyochem-Patch#how-legal)
