@@ -57,4 +57,4 @@
 > We're not publicly providing the patched applicationsa source and application binaries for desktop (PC - Windows, Linux, MacOS) since there maybe a abusive use of the patched app. (Especially for illegal matters), so you can contact me with [email](yt2.dev.dragon@gmail.com) to request the software.
 > Note that you'll need to prove that you're a student to aqquire valid license to run Patched software.
 
-<p align="center">© 2024 Siyochem Patch. All rights for the patch are reserved.</p>
+<p align="center">© 2025 Siyochem Patch. All rights for the patch are reserved.</p>
